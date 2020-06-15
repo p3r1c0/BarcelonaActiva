@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj": {}
+    "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj": {
+    "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj",
         "projectName": "BarcelonaActivaDemo",
-        "projectPath": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj",
+        "projectPath": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\BarcelonaActivaDemo\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\Repos\\BarcelonaActiva\\BarcelonaActivaDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
