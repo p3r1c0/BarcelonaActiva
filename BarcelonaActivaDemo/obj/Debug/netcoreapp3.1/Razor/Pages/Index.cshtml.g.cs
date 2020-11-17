@@ -57,7 +57,7 @@ using BarcelonaActivaDemo;
 #line default
 #line hidden
 #nullable disable
-            WriteLiteral("<h1>Show me the time ");
+            WriteLiteral("<h1>TESTING ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "925aa8c6620de82b5319c47c18d3f0ab84476be13887", async() => {
             }
             );
